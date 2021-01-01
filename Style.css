@@ -1,0 +1,40 @@
+.Line {
+    height: 6px;
+    width: 80px;
+    margin: 8px auto;
+}
+
+body {
+    text-align: center;
+}
+
+#App {
+    height: 2000px;
+    width: 100%;
+    background-color: aquamarine;
+    margin-bottom:40px;
+}
+
+#Games {
+    height: 400px;
+    width: 100%;
+    background-color: cyan;
+    margin-top:40px;
+}
+
+#ChatBot {
+    height: 600px;
+    width: 100%;
+    background-color: chartreuse;
+}
+
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.8);
+}
+#carousel1{
+background-color:blueviolet;
+}
